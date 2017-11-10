@@ -1,0 +1,42 @@
+<h1>Kelly Manahan | Web Developer</h1>
+
+<p><i>36514 Turner Dr <br>Palmdale <br> CA 93550 <br> <a href="mailto:kammagik@gmail.com">kammagik@gmail.com</a></i>
+  <hr>
+<section>
+<h2>Goals</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eleifend orci eget tortor congue, cursus tempus enim accumsan. Aliquam dolor felis, vehicula in purus eu, tincidunt pellentesque justo. Nunc ac ante et odio volutpat lacinia. Integer bibendum ultricies nisi at facilisis.</p>
+</section>
+
+<section>
+<h2>Skills</h2>
+<ol>
+  <li>HTML</li>
+  <li>CSS3</li>
+  <li>SASS</li>
+  <li>Ruby</li>
+  <li>Javasript</li>
+</ol>
+</section>
+
+<section>
+  <h2>Databases</h2>
+<ol>
+  <li>SQLite3</li>
+  <li>PostgreSQL</li>
+  <li>MySQL</li>
+  <li>MonoDB</li>
+  <li>Redis</li>
+</ol>
+</section>
+
+<section>
+<h2>Platforms</h2>
+<ol>
+  <li>Heroku</li>
+  <li>AWS</li>
+</ol>
+</section>
+
+<footer>
+  <p><font size ="2">36514 Turner Dr <br>Palmdale <br> CA 93550 <br> <a href="mailto:kammagik@gmail.com">kammagik@gmail.com</a></font>
+</footer>
